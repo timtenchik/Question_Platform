@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\QuestionPlatform\QuestionPlatform\bin\Debug\net6.0\QuestionPlatform.exe
+C:\Users\user\source\repos\QuestionPlatform\QuestionPlatform\bin\Debug\net6.0\QuestionPlatform.deps.json
+C:\Users\user\source\repos\QuestionPlatform\QuestionPlatform\bin\Debug\net6.0\QuestionPlatform.runtimeconfig.json
+C:\Users\user\source\repos\QuestionPlatform\QuestionPlatform\bin\Debug\net6.0\QuestionPlatform.dll
+C:\Users\user\source\repos\QuestionPlatform\QuestionPlatform\bin\Debug\net6.0\ref\QuestionPlatform.dll
+C:\Users\user\source\repos\QuestionPlatform\QuestionPlatform\bin\Debug\net6.0\QuestionPlatform.pdb
+C:\Users\user\source\repos\QuestionPlatform\QuestionPlatform\obj\Debug\net6.0\QuestionPlatform.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\QuestionPlatform\QuestionPlatform\obj\Debug\net6.0\QuestionPlatform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\QuestionPlatform\QuestionPlatform\obj\Debug\net6.0\QuestionPlatform.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\QuestionPlatform\QuestionPlatform\obj\Debug\net6.0\QuestionPlatform.AssemblyInfo.cs
+C:\Users\user\source\repos\QuestionPlatform\QuestionPlatform\obj\Debug\net6.0\QuestionPlatform.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\QuestionPlatform\QuestionPlatform\obj\Debug\net6.0\QuestionPlatform.dll
+C:\Users\user\source\repos\QuestionPlatform\QuestionPlatform\obj\Debug\net6.0\ref\QuestionPlatform.dll
+C:\Users\user\source\repos\QuestionPlatform\QuestionPlatform\obj\Debug\net6.0\QuestionPlatform.pdb
+C:\Users\user\source\repos\QuestionPlatform\QuestionPlatform\obj\Debug\net6.0\QuestionPlatform.genruntimeconfig.cache

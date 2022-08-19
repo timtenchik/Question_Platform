@@ -1,0 +1,34 @@
+{
+  "Quizzes": [
+    {
+      "Name": "Физика",
+      "Questions": [
+        {
+          "Name": "Кто придумал закон тяжения?",
+          "Answer": "Ньютон",
+          "AnswerOptions": [
+            "Ньютон",
+            "Франкинштейн",
+            "Енштейн"
+          ],
+          "HasAnswerOptions": true
+        },
+        {
+          "Name": "Какая планета ближе всего находится к Солнцу?",
+          "Answer": "Марс",
+          "AnswerOptions": [
+            "Венера",
+            "Марс",
+            "Юпитер",
+            "Земля"
+          ],
+          "HasAnswerOptions": true
+        }
+      ]
+    },
+    {
+      "Name": "Math",
+      "Questions": null
+    }
+  ]
+}
